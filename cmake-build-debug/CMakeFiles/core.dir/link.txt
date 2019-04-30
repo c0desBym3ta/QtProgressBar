@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcore.a  CMakeFiles/core.dir/main.cpp.o CMakeFiles/core.dir/MainWindow.cpp.o CMakeFiles/core.dir/ResourcesLoader.cpp.o CMakeFiles/core.dir/File.cpp.o CMakeFiles/core.dir/core_autogen/mocs_compilation.cpp.o
+/usr/bin/ranlib libcore.a
